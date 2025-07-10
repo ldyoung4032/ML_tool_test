@@ -1,0 +1,10 @@
+artifact_location: file:///Users/dayounglee/Documents/MLflow/mlruns/685290324573823773/models/m-bf0a959159924984996bc88a53e119ca/artifacts
+creation_timestamp: 1752150906088
+experiment_id: '685290324573823773'
+last_updated_timestamp: 1752150910234
+model_id: m-bf0a959159924984996bc88a53e119ca
+model_type: null
+name: model
+source_run_id: a52a616ffde34182ba598f8bbf5cfccd
+status: 2
+status_message: null

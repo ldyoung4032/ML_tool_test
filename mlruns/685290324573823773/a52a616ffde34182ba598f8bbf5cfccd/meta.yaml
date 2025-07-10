@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayounglee/Documents/MLflow/mlruns/685290324573823773/a52a616ffde34182ba598f8bbf5cfccd/artifacts
+end_time: 1752150910298
+entry_point_name: ''
+experiment_id: '685290324573823773'
+lifecycle_stage: active
+run_id: a52a616ffde34182ba598f8bbf5cfccd
+run_name: overjoyed-snail-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752150905882
+status: 3
+tags: []
+user_id: dayounglee

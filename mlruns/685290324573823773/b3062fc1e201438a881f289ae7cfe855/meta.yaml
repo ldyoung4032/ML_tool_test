@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/dayounglee/Documents/MLflow/mlruns/685290324573823773/b3062fc1e201438a881f289ae7cfe855/artifacts
+end_time: 1752153111053
+entry_point_name: ''
+experiment_id: '685290324573823773'
+lifecycle_stage: active
+run_id: b3062fc1e201438a881f289ae7cfe855
+run_name: sassy-lamb-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752153107704
+status: 3
+tags: []
+user_id: dayounglee
